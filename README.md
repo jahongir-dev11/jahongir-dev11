@@ -1,46 +1,43 @@
-# Hi there, I'm Jahongir 👋
+<!-- Modern Stylish README for Jahongir (HTML/CSS/JS only) -->
 
-Welcome to my GitHub profile!
+<h1 align="center">Hi 👋, I'm Jahongir</h1>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=500&color=3BADFF&center=true&vCenter=true&width=400&lines=HTML+%7C+CSS+%7C+JavaScript+Developer;Clean+Code+%7C+Modern+UIs;Always+Learning+%7C+Always+Building" alt="Typing SVG" />
+</div>
 
 ---
 
 ## 🚀 About Me
 
-I'm Jahongir, a passionate JavaScript developer who loves building modern, scalable, and user-friendly web applications. I strive to write clean, efficient, and maintainable code, and I'm always looking for new challenges to grow my skills.
+- 💻 Building modern, fast, and responsive web apps with **HTML, CSS, and JavaScript**
+- 🖌️ Focused on clean design, smooth UX, and maintainable code
+- 🔧 Love solving algorithmic challenges and bringing creative ideas to life
 
 ---
 
-## 🛠 Technologies & Tools
+## 🛠 Tech Stack
 
-- Languages: JavaScript (ES6+), TypeScript, HTML5, CSS3, SASS/SCSS
-- Frameworks/Libraries: React.js, Node.js, Express.js, Next.js, Redux, Vue.js
-- Databases: MongoDB, PostgreSQL, MySQL
-- Tools: Git & GitHub, Webpack, Babel, ESLint, Prettier, npm/yarn
-- Testing: Jest, Mocha, Cypress
+<div>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat" alt="JavaScript" />
+</div>
 
 ---
 
 ## 🌱 Currently Learning
 
-- Advanced TypeScript patterns
-- Serverless architectures
-- GraphQL & Apollo
-- CI/CD with GitHub Actions
+- Advanced JavaScript
+- CSS animations & effects
+- Frontend architecture patterns
 
 ---
-
-## 📈 GitHub Stats
-
-![jahongir-dev11's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jahongir-dev11&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jahongir-dev11&layout=compact&theme=radical)
-
----
-
 
 ## ⚡️ Fun Fact
 
-> I love solving algorithm challenges, and I'm always up for a game of chess!
+I enjoy solving algorithm puzzles and playing chess in my free time!
 
 ---
 
-Thanks for visiting my profile! 🚀
+Thanks for visiting! 🚀
